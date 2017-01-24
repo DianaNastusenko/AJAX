@@ -1,0 +1,7 @@
+6a3aba3ad081c6168090c7305525e0c9
+
+Latitude	49.8259809
+Longitude	24.0129565
+
+
+https://api.darksky.net/forecast/6a3aba3ad081c6168090c7305525e0c9/49.8259809,24.0129565
